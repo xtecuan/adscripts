@@ -1,0 +1,7 @@
+"FIRSTNAME","LASTNAME","PCMAIL","PASSWD"
+"Julian","Rivera Pineda","JULIANR","Locator90210$"
+"Julian","Rivera Mancia","JULIANRM","Locator90210$"
+"Julian Fernando","Rivera Hernandez","JULIANFRH","Locator90210$"
+"Jimena Fabiola","Rivera Hernandez","JIMENAFRH","Locator90210$"
+"Jessica","Vaquero","JESSICAV","Locator90210$"
+
