@@ -1,0 +1,12 @@
+"FIRSTNAME","LASTNAME","PASSWD","OU","PCMAIL"
+"Ricardo","Carranza","Pa$$w0rd","Ventas","RCARRANZA"
+"Luis","Perez","Pa$$w0rd","Ventas","LPEREZ"
+"Mario","Ayala","Pa$$w0rd","Ventas","MAYALA"
+"Fermín","IV","Pa$$w0rd","Operadores","FIV"
+"Estela","Mendoza","Pa$$w0rd","Operadores","EMENDOZA"
+"Agustín","Melara","Pa$$w0rd","Operadores","AMELARA"
+"Ricardo","Melara","Pa$$w0rd","Operadores","RMELARA"
+"Justo","Cerna","Pa$$w0rd","Operadores","JCERNA"
+"Estefani","Michell","Pa$$w0rd","Gerentes","EMICHELL"
+"Walter","Otoniel","Pa$$w0rd","Gerentes","WOTONIEL"
+
