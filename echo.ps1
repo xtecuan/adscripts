@@ -1,0 +1,1 @@
+$path = [System.Environment]::GetEnvironmentVariable('Path','Machine')
